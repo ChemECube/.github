@@ -1,4 +1,4 @@
-<img src="https://s23.picofile.com/file/8449078968/28984617_e789fa78_792c_11e7_9c9f_17c23a70e6cc.png" alt="drawing" width="500"/>
+<img src="https://s23.picofile.com/file/8449427742/28984617_e789fa78_792c_11e7_9c9f_17c23a70e6cc.png" alt="drawing" width="500"/>
 
 
 [![GitHub release](https://img.shields.io/github/release/koroshkorosh1/CV?label=Resume&logo=github&style=for-the-badge)](https://github.com/koroshkorosh1/CV/blob/main/CV.pdf)
