@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://s22.picofile.com/file/8449686676/SHUNI.png" alt="drawing" width="200"/>
+</p>
 
 # Welcome to ChemECube
 
